@@ -44,6 +44,3 @@ Teacher's Profile
 
 Feel free to contribute by submitting a pull request. For any issues, please open an issue on this repository.
 
-## License
-
-This project is licensed under the MIT License.
